@@ -51,8 +51,7 @@ também estão preocupados em ter reconhecimento social e expectativa de renda
 futura mais elevada ”.
 ```
 (Trecho visto e retirado do Site Valor Econômico, 2023,
-https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2023/02/10/busca-por-
-status-norteia-escolha-de-imovel-de-luxo.ghtml)
+https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2023/02/10/busca-por-status-norteia-escolha-de-imovel-de-luxo.ghtml)
 
 ## Alguns exemplos de personas, público alvo da empresa:
 
