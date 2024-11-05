@@ -282,9 +282,9 @@ Figura 4 – Conjunto de Wireframes com prototipação de alta fidelidade websit
 
 ## Sociais dos contribuintes
 
-Felipe Carneiro: [•GitHub](https://www.github.com/Felipe-Carneiro89)
+Felipe Carneiro: [GitHub](https://www.github.com/Felipe-Carneiro89)
 
-Jorge Lucas Freitas Cardoso: [•GitHub](https://www.github.com/jorgefcardoso)   [•LinkedIn](https://www.linkedin.com/in/jorgelfcardoso/)
+Jorge Lucas Freitas Cardoso: [GitHub](https://www.github.com/jorgefcardoso)   [LinkedIn](https://www.linkedin.com/in/jorgelfcardoso/)
 
 ## Referências bibliográficas
 
