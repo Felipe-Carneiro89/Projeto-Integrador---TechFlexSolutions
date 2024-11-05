@@ -288,8 +288,7 @@ Jorge Lucas Freitas Cardoso: [GitHub](https://www.github.com/jorgefcardoso)   [L
 
 ## Referências bibliográficas
 
-https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2023/02/10/busca-por-status-norteia-escolha-
-de-imovel-de-luxo.ghtml
+https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2023/02/10/busca-por-status-norteia-escolha-de-imovel-de-luxo.ghtml
 
 https://www.gov.br/receitafederal/pt-br/servicos/cadastro/cnpj
 
