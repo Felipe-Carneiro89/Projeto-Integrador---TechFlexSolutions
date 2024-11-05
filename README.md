@@ -280,11 +280,11 @@ discutir entre o time os pontos importantes para serem acrescentados ou reavalia
 
 Figura 4 – Conjunto de Wireframes com prototipação de alta fidelidade website versátil engenharia – Fonte: Figma
 
-## Github dos contribuintes
+## Sociais dos contribuintes
 
 Felipe Carneiro: [GitHub](https://www.github.com/Felipe-Carneiro89)
 
-Jorge Lucas Freitas Cardoso: [GitHub](https://www.github.com/jorgefcardoso)
+Jorge Lucas Freitas Cardoso: [GitHub](https://www.github.com/jorgefcardoso) [LinkedIn](https://www.linkedin.com/in/jorgelfcardoso/)
 
 ## Referências bibliográficas
 
