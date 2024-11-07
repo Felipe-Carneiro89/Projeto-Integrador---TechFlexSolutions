@@ -1,5 +1,6 @@
 # Projeto Integrador - TechFlexSolutions
- Projeto Integrador dos alunos do curso de Análise e Desenvolvimento de Sistemas - UNIVICOSA
+
+Projeto Integrador dos alunos do curso de Análise e Desenvolvimento de Sistemas - UNIVICOSA
 
 # Introdução
 
@@ -20,12 +21,12 @@ como dos usuários dos serviços que ele fornece.
 
 1. Criação de um Website que solucione a demanda do cliente.
 2. Oferecer ideias e recursos que existem de mais atual para o problema do cliente, de modo que ele
-consiga nos passar com a maior clareza possível qual é sua necessidade para o desenvolvimento do site.
+   consiga nos passar com a maior clareza possível qual é sua necessidade para o desenvolvimento do site.
 3. Oferecer e entender as personas que o cliente atende, para desenvolvimento de recursos e
-informações que sejam de interesses destes possíveis clientes.
+   informações que sejam de interesses destes possíveis clientes.
 4. Aumentar o número de clientes da empresa.
-5.Ampliar a visibilidade e marketing da empresa através da plataforma.
-6. Apresentar um conceito de sofisticação e qualidade nos produtos e serviços para os clientes.
+   5.Ampliar a visibilidade e marketing da empresa através da plataforma.
+5. Apresentar um conceito de sofisticação e qualidade nos produtos e serviços para os clientes.
 
 # Pesquisa e Descoberta
 
@@ -50,6 +51,7 @@ alto padrão se destacam na busca por status, imediatismo e hedonismo, mas
 também estão preocupados em ter reconhecimento social e expectativa de renda
 futura mais elevada ”.
 ```
+
 (Trecho visto e retirado do Site Valor Econômico, 2023,
 https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2023/02/10/busca-por-status-norteia-escolha-de-imovel-de-luxo.ghtml)
 
@@ -65,33 +67,33 @@ Profissão: Médico, já com alguns anos de formação, buscou especializações
 sendo bem-sucedido no que faz.
 
 Objetivos:
- 
- • Deseja uma casa bonita, grande e aconchegante, sonho dele e de sua família.
- 
- • Dar conforto para ele e sua família, para suas horas em casa valerem o tempo que passa e se
+
+• Deseja uma casa bonita, grande e aconchegante, sonho dele e de sua família.
+
+• Dar conforto para ele e sua família, para suas horas em casa valerem o tempo que passa e se
 dedica no trabalho.
 
 Necessidades e Frustrações:
- 
- • Exige qualidade e boa execução do projeto, além de observador, gosta de cobrar pelo valor
+
+• Exige qualidade e boa execução do projeto, além de observador, gosta de cobrar pelo valor
 que paga, esperando sempre perfeição no trabalho lhe é entregue.
 
- • Não gosta de imprevistos, um atraso no cronograma pode deixá-lo chateado.
+• Não gosta de imprevistos, um atraso no cronograma pode deixá-lo chateado.
 Comportamento:
- 
- • Trabalha muito.
- 
- • Valoriza o tempo em casa com sua família.
- 
- • É meticuloso, mas não gosta de perder tempo com tarefas operacionais que não compete a
+
+• Trabalha muito.
+
+• Valoriza o tempo em casa com sua família.
+
+• É meticuloso, mas não gosta de perder tempo com tarefas operacionais que não compete a
 ele.
 
 Motivações:
 
- • Maximizar sua eficiência em seu ofício para passar mais tempo com a família e se dedicar a
+• Maximizar sua eficiência em seu ofício para passar mais tempo com a família e se dedicar a
 projetos pessoais que também desenvolve.
- 
- • Trabalha com empenho para se tornar uma pessoa bem-sucedida.
+
+• Trabalha com empenho para se tornar uma pessoa bem-sucedida.
 
 # Persona 2
 
@@ -103,33 +105,33 @@ Profissão: Um grande empreendedor da cidade, Claudio é um varejista de médio 
 cidade, mas não encerra ali, busca investir em tudo que sente a possibilidade de bons e prósperos retornos.
 Objetivos:
 
- • Quer algo bonito e espaçoso, adora receber visitar e comemorar com familiares.
- 
- • Espera em sua residência terminar de criar e ajudar seus filhos, para viver tranquilo com sua
+• Quer algo bonito e espaçoso, adora receber visitar e comemorar com familiares.
+
+• Espera em sua residência terminar de criar e ajudar seus filhos, para viver tranquilo com sua
 mulher, além de querer receber muitos convidados.
 
 Necessidades e Frustrações:
 
- • Gosta de impressionar, mas sabe negociar um preço justo em tudo que adquire.
- 
- • Pode se frustrar caso não seja atendido sempre com presteza.
- 
+• Gosta de impressionar, mas sabe negociar um preço justo em tudo que adquire.
+
+• Pode se frustrar caso não seja atendido sempre com presteza.
+
 Comportamento:
 
- • Tem uma mente rápida e atenta.
- 
- • Gosta de conversar sobre negócios.
- 
- • Adora estar com sua família e amigos.
- 
- • Pode ter atitudes narcisista em alguns momentos.
- 
+• Tem uma mente rápida e atenta.
+
+• Gosta de conversar sobre negócios.
+
+• Adora estar com sua família e amigos.
+
+• Pode ter atitudes narcisista em alguns momentos.
+
 Motivações:
 
- • Dedicar e trabalhar muito para depois aproveitar bastante seu descanso, espera que pelo
+• Dedicar e trabalhar muito para depois aproveitar bastante seu descanso, espera que pelo
 menos um de seus filhos siga gerenciando seus negócios.
 
- • Nasceu sem muitas oportunidades, se orgulha muito da sua trajetória e deseja oferecer muitas
+• Nasceu sem muitas oportunidades, se orgulha muito da sua trajetória e deseja oferecer muitas
 oportunidades paras os filhos.
 
 **-** Entendimento do Problema:
@@ -174,7 +176,6 @@ Figura 1 – Mapa de empresas
 
 Fonte: Base de coleta de dados do Cadastro Nacional de Pessoa Jurídica (CNPJ). Dados atualizados até o mês de agosto/2024.
 
-
 # Definição do Problema
 
 Através das análises do time com o cliente foi possível identificar que a empresa de engenharia civil
@@ -206,7 +207,6 @@ controle, crucial em setores como da Engenharia Civil.
 
 ## • Métricas para Avaliar a Solução do Problema
 
-
 1 - Usabilidade: Avaliar a porcentagem de usuários que consegue completar ações importantes que
 foram implementas no site, como encontrar serviços ofertados e para clientes atuais se consegue
 acessar a área de login exclusivo com facilidade.
@@ -232,7 +232,6 @@ após a primeira consulta.
 
 Avaliando e pensando nos problemas repassados pelo solicitante do projeto, elaboramos um site que
 busque interagir com o usuário nele conectado, que tente repassar imagens e valores que a empresa
-
 
 contratante compactue, desta forma, tentaremos elaborar algo que tenha um conceito moderno e elegante,
 fazendo o site demonstrar qualidade e sofisticação, algo que transmitirá e será levando em consideração
@@ -283,13 +282,12 @@ Figura 4 – Conjunto de Wireframes com prototipação de alta fidelidade websit
 ## Sociais dos contribuintes
 
 Felipe Carneiro: [GitHub](https://www.github.com/Felipe-Carneiro89)
+[LinkedIn](www.linkedin.com/in/felipe-carneiro-5b6108302)
 
-Jorge Lucas Freitas Cardoso: [GitHub](https://www.github.com/jorgefcardoso)   [LinkedIn](https://www.linkedin.com/in/jorgelfcardoso/)
+Jorge Lucas Freitas Cardoso: [GitHub](https://www.github.com/jorgefcardoso) [LinkedIn](https://www.linkedin.com/in/jorgelfcardoso/)
 
 ## Referências bibliográficas
 
 https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2023/02/10/busca-por-status-norteia-escolha-de-imovel-de-luxo.ghtml
 
 https://www.gov.br/receitafederal/pt-br/servicos/cadastro/cnpj
-
-
