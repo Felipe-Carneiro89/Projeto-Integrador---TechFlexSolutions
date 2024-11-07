@@ -279,6 +279,65 @@ discutir entre o time os pontos importantes para serem acrescentados ou reavalia
 
 Figura 4 – Conjunto de Wireframes com prototipação de alta fidelidade website versátil engenharia – Fonte: Figma
 
+# Teste e Iteração
+
+Durante a montagem do website inicialmente tivemos várias dificuldades, pois havia muito pouco conhecimento a respeito
+da ferramenta de criação, o Figma, bem como conhecimento aprofundado na matéria de UX/UI, desta forma optamos por
+idealizarmos boa parte da ideia inicial em modelos Wireframesem esboços de baixa fidelidade, assim através de discussões
+fomos montando inicialmente a ideia do que o cliente nos repassou das necessidades do produto e o que desejava construir.
+Ao iniciar a montagem do site já na ferramenta Figma tivemos muitos problemas na organização das partes do site, já com uma
+ideia inicial, agora tínhamos que tecnicamente ir distribuindo as informações e serviços que o cliente oferece e informa na
+plataforma de forma clara e limpa, inicialmente as cores do site não ligaram com muita harmonia, pois tínhamos optado
+para cores muito escuras e pesadas, o que não passava uma ideia de modernidade e sofisticação, assim, em conversa com o cliente
+vimos que isso necessitava ser alterado, até chegar a cor definida, ressaltando que utilizamos em alguns detalhes cores
+próximas do logotipo principal já utilizado pela empresa, fazendo com que o site transmita harmonia entre seus componentes
+e identidade visual.
+Depois de elaborado basicamente os itens principais do site, iniciamos a montagem das novas páginas, ficando definido entre
+as principais: “sobre a empresa”, “área de login” e “contato”, além da página principal que concentrava a maioria das informações.
+Sobre alguns itens futuros é importante ressaltar, uma nova página de acesso após o lançamento dos dados de login do usuário/cliente
+da Versátil ainda não foi criada devido ao baixo conhecimento do time sobre outras disciplinas do curso de Análise e Desenvolvimento
+de Sistemas correlacionadas que existe necessidade de serem cursadas e aprofundadas para apresentação completa do website
+com todas suas funcionalidades, entre elas: criação de um banco de dados, servidor, back end da plataforma e outras.
+Acrescentando também que o cliente nos informou que ainda não teria ao certo quais itens e informações desejaria e teria
+disponível para apresentar na dashboard especifica desta página aos clientes da sua empresa, lembrando que inicialmente foi uma
+ideia e necessidade informada por ele mesmo, desta forma vimos que isso necessita ser elaborado futuramente com maior conhecimento
+e também com coleta de novos dados mais personalizados e exclusivo de cada cliente que a empresa fornece algum tipo de serviço.
+
+# • Feedback
+
+Ao apresentar a plataforma para o cliente basicamente pronta até o ponto que previamente informamos que seria apresentada
+nesta primeira etapa o time ficou bastante satisfeito com o retorno, o cliente informou que gostou de como ficou distribuídos
+os itens do site, bem como as ideias que foram sugeridas para ele, além de ter informado que sentiu que suas necessidades
+expostas nas reuniões foram colhidas e implementas na solução do projeto, ressaltou também a evolução que houve na primeira
+apresentação para a apresentação final desta etapa.
+Se mostrou bastante contente com o resultado e acrescentou que sua empresa teria interesse em inclusive arcar com eventuais
+custos para implementação completa da plataforma, que mesmo em fase de projeto integrador, ainda como trabalho prático universitário,
+caso necessite de algum valor de custeio para alguma eventual despesa, a sua empresa se colocava aberta para ouvir e tentar colaborar.
+
+# • Prototipação no Figma
+
+Uma fase que foi determinante e desafiadora, principalmente para o designer, vindo de conhecimento nenhum na ferramenta,
+buscamos bastante informações extraclasse, bem como capacitações e cursos para ajudar a entender e saber trabalhar com a
+ferramentas disponíveis, principalmente na parte de criações de componentes dentro das layers para deixar o site mais interativos
+e dispor de recursos mais vivos, sem dúvida foi um grande aprendizado.
+A prototipação final ocorreu sem alterações, tendo conseguido dar caminho a todas as janelas e deixa-las bem elaboradas
+para apresentação final interativa ao cliente.
+
+<img src="https://lh5.googleusercontent.com/UHRfhXF7loXT_tlmQ94Km5DpAOjqEsmeYrbIb2Xrg2PJZRj4WZ0WZj3BCMSMOK4rPDmzLrMTNvgEVB_utWrC8u8=w1280">
+
+# Conclusão
+
+Este projeto trouxe desafios únicos e valiosos aprendizados para o processo de design centrado no usuário vistos durante
+a disciplina de Design de Interação. Um dos maiores desafios foi equilibrar as necessidades do cliente com as limitações técnicas.
+Durante o desenvolvimento, foi necessário realizar várias iterações de design baseadas em feedback direto do cliente,
+juntamente com o que descobríamos de conteúdo na matéria e extra, o que nos permitiu adaptar e aprimorar constantemente a experiência
+proposta. Cada rodada de testes revelou novos desafios sobre como os usuários interagem com o produto, possibilitando ajustes
+que fortaleceram a usabilidade e a eficiência da interface.
+Outro aprendizado importante foi a importância de manter uma comunicação constante e aberta com o cliente. Isso ajudou a alinhar
+expectativas e facilitou a incorporação de feedback em pontos-chave do projeto, evitando retrabalho, que inicialmente ocorreu,
+assim garantindo que as necessidades do negócio fossem respeitadas. Trabalhar com equipe também trouxe uma rica troca de conhecimentos,
+permitindo que todos contribuíssem para soluções e o sucesso do projeto.
+
 ## Sociais dos contribuintes
 
 Felipe Carneiro: [GitHub](https://www.github.com/Felipe-Carneiro89)
@@ -291,3 +350,7 @@ Jorge Lucas Freitas Cardoso: [GitHub](https://www.github.com/jorgefcardoso) [Lin
 https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2023/02/10/busca-por-status-norteia-escolha-de-imovel-de-luxo.ghtml
 
 https://www.gov.br/receitafederal/pt-br/servicos/cadastro/cnpj
+
+https://www.figma.com/board/yL5VH2NSurSaVnKZtg9l0S/Ux-Strategy%3A-an%C3%A1lise-de-dados-em-um-MVP---Projeto-completo-(Community)?node-id=0-1&node-type=canvas&t=wGgiRlug3FsC24ff-0
+
+Barbosa, S. D. K.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
