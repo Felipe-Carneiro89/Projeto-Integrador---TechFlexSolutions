@@ -1,3 +1,5 @@
+![image](https://lh5.googleusercontent.com/C24_fJRmyb1FOwCx_OJrLAnyghOGOgUOtNed4pE_L6WgzW72rpSWhatAEdAV14EuH4LtZioRwlkkWlo6EdFTGBaGetfz8XBaORWBLtqhbCQm1Pp01dVTNTzLFqOg_HN4YQ=w1280)
+
 # Projeto Integrador - TechFlexSolutions
 
 Projeto Integrador dos alunos do curso de Análise e Desenvolvimento de Sistemas - UNIVICOSA
@@ -323,7 +325,7 @@ e dispor de recursos mais vivos, sem dúvida foi um grande aprendizado.
 A prototipação final ocorreu sem alterações, tendo conseguido dar caminho a todas as janelas e deixa-las bem elaboradas
 para apresentação final interativa ao cliente.
 
-<img src="https://lh5.googleusercontent.com/UHRfhXF7loXT_tlmQ94Km5DpAOjqEsmeYrbIb2Xrg2PJZRj4WZ0WZj3BCMSMOK4rPDmzLrMTNvgEVB_utWrC8u8=w1280">
+![image](https://lh5.googleusercontent.com/UHRfhXF7loXT_tlmQ94Km5DpAOjqEsmeYrbIb2Xrg2PJZRj4WZ0WZj3BCMSMOK4rPDmzLrMTNvgEVB_utWrC8u8=w1280)
 
 # Conclusão
 
