@@ -1,4 +1,4 @@
-![image](https://lh3.googleusercontent.com/jvNAnhpQWmD9gzFr2qtPsD68fWi0UOey3CR4m1jOWzZhrfpjQbYeLuJj-4HtaIGi3dpIDYg5nSthOpLvyRLvysXirWJXNrG3Ts_PqMnzVXHHEudC2r3ndir-R-_744YTAA=w1280)
+<img src="techflexlogo.png">
 
 # Projeto Integrador - TechFlexSolutions
 
@@ -325,7 +325,7 @@ e dispor de recursos mais vivos, sem dúvida foi um grande aprendizado.
 A prototipação final ocorreu sem alterações, tendo conseguido dar caminho a todas as janelas e deixa-las bem elaboradas
 para apresentação final interativa ao cliente.
 
-![image](https://lh3.googleusercontent.com/oFyTbAkD6LDaV4vpOmgL1axPaf9qSxsv9ElWMAYfJCQ7toZ2jY-qkiN7ueYJ7v5z_cGoWs27tSwIwvc9ml_RrKA=w1280)
+<img src="Pagina 1 - Principal - final.png">
 
 # Conclusão
 
