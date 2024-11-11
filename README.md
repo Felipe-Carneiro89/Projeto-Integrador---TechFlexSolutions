@@ -230,7 +230,7 @@ após a primeira consulta.
 
 # Design e Ideação
 
-# • Prototipação
+## • Prototipação
 
 Avaliando e pensando nos problemas repassados pelo solicitante do projeto, elaboramos um site que
 busque interagir com o usuário nele conectado, que tente repassar imagens e valores que a empresa
@@ -305,7 +305,7 @@ disponível para apresentar na dashboard especifica desta página aos clientes d
 ideia e necessidade informada por ele mesmo, desta forma vimos que isso necessita ser elaborado futuramente com maior conhecimento
 e também com coleta de novos dados mais personalizados e exclusivo de cada cliente que a empresa fornece algum tipo de serviço.
 
-# • Feedback
+## • Feedback
 
 Ao apresentar a plataforma para o cliente basicamente pronta até o ponto que previamente informamos que seria apresentada
 nesta primeira etapa o time ficou bastante satisfeito com o retorno, o cliente informou que gostou de como ficou distribuídos
@@ -316,7 +316,7 @@ Se mostrou bastante contente com o resultado e acrescentou que sua empresa teria
 custos para implementação completa da plataforma, que mesmo em fase de projeto integrador, ainda como trabalho prático universitário,
 caso necessite de algum valor de custeio para alguma eventual despesa, a sua empresa se colocava aberta para ouvir e tentar colaborar.
 
-# • Prototipação no Figma
+## • Prototipação no Figma
 
 Uma fase que foi determinante e desafiadora, principalmente para o designer, vindo de conhecimento nenhum na ferramenta,
 buscamos bastante informações extraclasse, bem como capacitações e cursos para ajudar a entender e saber trabalhar com a
