@@ -348,7 +348,7 @@ Jorge Lucas Freitas Cardoso: [GitHub](https://www.github.com/jorgefcardoso) [Lin
 
 Antônio Maroca Amarante Pinto Coelho: [GitHub](https://www.github.com/) [LinkedIn](https://www.linkedin.com/in//)
 
-Elias Reis Gomes: [GitHub](https://www.github.com/) [LinkedIn](https://www.linkedin.com/in//)
+Elias Reis Gomes: [GitHub](https://www.github.com/elias-7777) [LinkedIn](https://www.linkedin.com/in//)
 
 Diego Araújo Arruda: [GitHub](https://www.github.com/) [LinkedIn](https://www.linkedin.com/in//)
 
