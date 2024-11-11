@@ -346,11 +346,11 @@ Felipe Soares Gonçalves Carneiro Xavier: [GitHub](https://www.github.com/Felipe
 
 Jorge Lucas Freitas Cardoso: [GitHub](https://www.github.com/jorgefcardoso) [LinkedIn](https://www.linkedin.com/in/jorgelfcardoso/)
 
-Antônio Maroca Amarante Pinto Coelho: [GitHub](https://www.github.com/) [LinkedIn](https://www.linkedin.com/in//)
+Antônio Maroca Amarante Pinto Coelho: [GitHub](https://www.github.com/Alemaroca) [LinkedIn](https://www.linkedin.com/in/antonio-maroca-ba860a338/)
 
-Elias Reis Gomes: [GitHub](https://www.github.com/elias-7777) [LinkedIn](https://www.linkedin.com/in//)
+Elias Reis Gomes: [GitHub](https://www.github.com/elias-7777) [LinkedIn](https://www.linkedin.com/in/elias-reis-1259992b3/)
 
-Diego Araújo Arruda: [GitHub](https://www.github.com/) [LinkedIn](https://www.linkedin.com/in//)
+Diego Araújo Arruda: [GitHub](https://www.github.com/dhyegor) [LinkedIn](https://www.linkedin.com/in/diego-araujo-2711a22a7/)
 
 ## Referências bibliográficas
 
