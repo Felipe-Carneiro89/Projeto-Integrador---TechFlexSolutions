@@ -342,10 +342,15 @@ permitindo que todos contribuíssem para soluções e o sucesso do projeto.
 
 ## Sociais dos contribuintes
 
-Felipe Carneiro: [GitHub](https://www.github.com/Felipe-Carneiro89)
-[LinkedIn](https://www.linkedin.com/in/felipe-carneiro-5b6108302/)
+Felipe Soares Gonçalves Carneiro Xavier: [GitHub](https://www.github.com/Felipe-Carneiro89) [LinkedIn](https://www.linkedin.com/in/felipe-carneiro-5b6108302/)
 
 Jorge Lucas Freitas Cardoso: [GitHub](https://www.github.com/jorgefcardoso) [LinkedIn](https://www.linkedin.com/in/jorgelfcardoso/)
+
+Antônio Maroca Amarante Pinto Coelho: [GitHub](https://www.github.com/) [LinkedIn](https://www.linkedin.com/in//)
+
+Elias Reis Gomes: [GitHub](https://www.github.com/) [LinkedIn](https://www.linkedin.com/in//)
+
+Diego Araújo Arruda: [GitHub](https://www.github.com/) [LinkedIn](https://www.linkedin.com/in//)
 
 ## Referências bibliográficas
 
