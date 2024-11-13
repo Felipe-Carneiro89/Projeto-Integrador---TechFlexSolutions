@@ -44,6 +44,8 @@ Buscando estudos que norteei a análise do público que a empresa contratante li
 <img src="Persona1.png">
 Figura 1 – Primeira persona do projeto exemplificada
 
+---
+
 <img src="Persona2.png">
 Figura 2 – Segunda persona do projeto exemplificada
 
