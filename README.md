@@ -171,13 +171,13 @@ Figura 2 – Wireframe esboço inicial
 
 O objetivo deste wireframe (Figura 2) foi criar uma estrutura básica para entendimento da navegação, que destaque os principais serviços e informações da empresa, sendo decidido em separar o conteúdo em seções simples e bem definidas, garantindo que os visitantes encontrem as informações de forma intuitiva e organizada pelo corpo da página principal.
 
-Conforme visto na figura 2, será criado uma outra wireframe para área de login e também será criado uma aba de contatos que irá sobrepor a wireframe quando selecionado, podendo ser fechada imediatamente se desejar.
+Conforme visto na Figura 2, será criado uma outra wireframe para área de login e também será criado uma aba de contatos que irá sobrepor a wireframe quando selecionado, podendo ser fechada imediatamente se desejar.
 
 No wireframe da Área Login de Clientes tem como objetivo oferecer uma área personalizada e segura para os clientes acompanharem seus projetos e documentos importantes, esta nova wireframe deverá ser um local simples e funcional, com foco na experiência do cliente. 
 
 O wireframe inicial incluiu apenas a página de login, mas depois quando expandido irá incluir dashboards personalizados com informações sobre o status dos projetos individualmente. Wireframe da Aba de Contatos tem como objetivo facilitar o contato entre os visitantes do site e a empresa, incentivando leads.
 
-Abaixo temos a figura 3, onde foi feito também uma prototipagem do campo de fotos do site, será feito uma aba de fotos, que serão apresentadas na página principal, uma a uma automaticamente, podendo o cliente ficar assistindo à passagem dessas fotos de obras e serviços executados.
+Abaixo temos a Figura 3, onde foi feito também uma prototipagem do campo de fotos do site, será feito uma aba de fotos, que serão apresentadas na página principal, uma a uma automaticamente, podendo o cliente ficar assistindo à passagem dessas fotos de obras e serviços executados.
 
 ![image](https://github.com/user-attachments/assets/c98f846f-f539-42f3-a540-cb9f3483cf34)
 
