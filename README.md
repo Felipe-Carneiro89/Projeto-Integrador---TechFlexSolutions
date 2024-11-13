@@ -46,6 +46,8 @@ Figura 1 – Primeira persona do projeto exemplificada
 
 ---
 
+---
+
 <img src="Persona2.png">
 Figura 2 – Segunda persona do projeto exemplificada
 
