@@ -37,6 +37,7 @@ Estes usuários na grande maioria buscavam o cliente já com interesse de inicia
 (Trecho visto e retirado do Site Valor Econômico, 2023, https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2023/02/10/busca-por-status-norteia-escolha-de-imovel-de-luxo.ghtml)
 
 ## Alguns exemplos de personas, público alvo da empresa:
+# Alguns exemplos de personas, público alvo da empresa:
 
 <img src="Persona1.png">
 Figura 1 – Primeira persona do projeto exemplificada
