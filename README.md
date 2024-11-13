@@ -8,10 +8,11 @@ Projeto Integrador dos alunos do Curso de Análise e Desenvolvimento de Sistemas
 
 ## • Contexto do Projeto:
 
-O desenvolvimento deste case deu-se pela necessidade encontrada do cliente, Versátil Engenharia, em querer introduzir sua marca no meio digital, primeiramente nos foi relatado que sua empresa utilizava apenas o Instagram para divulgação da sua marca e/ou serviços. O cliente acrescentou também que muitas empresas semelhantes à dele, atuantes no mesmo nicho da Versátil (construção de casa unifamiliar de alto padrão), tinham Website para aumentar clientes, bem como usando deste recurso para apresentação da empresa também para os clientes atuais.
+O desenvolvimento deste case deu-se pela necessidade encontrada do cliente, Versátil Engenharia, em querer introduzir sua marca no meio digital, primeiramente nos foi relatado que sua empresa utilizava apenas o Instagram para divulgação da sua marca e/ou serviços. O cliente acrescentou também que muitas empresas semelhantes à dele, atuantes no mesmo nicho da Versátil (construção de casa unifamiliar de alto padrão), tinham Website para aumentar clientes, bem como usavam deste recurso para apresentação da empresa também para os clientes atuais.
 
-Diante disso, o problema inicial observado pela TechFlex Solutions seria captar o máximo de
-informações do cliente e do público que a contratante lida, para desenvolvimento de um site, utilizamos inicialmente a técnica brainstorming, coletando as principais necessidades e desejos do nosso cliente, bem como dos usuários dos serviços que ele fornece.
+Diante disso, o problema inicial observado pela TechFlex Solutions seria captar o máximo de informações do cliente e do público que a contratante se relaciona, para desenvolvimento do site desejado.
+
+Utilizamos inicialmente a técnica brainstorming, coletando as principais necessidades e desejos do nosso cliente, bem como dos usuários dos serviços que ele presta.
 
 ## • Objetivos:
 
@@ -26,9 +27,11 @@ informações do cliente e do público que a contratante lida, para desenvolvime
 
 ## • Análise do Público-Alvo:
 
-Através de conversas com o cliente, conseguimos detectar que seu público alvo na grande maioria seriam empresários, empreendedores, profissionais com formação de nível superior (médicos, advogados e outros), muitas vezes já convictos que querem iniciar uma construção de casa, em sua grande parte para residir neste local com seus familiares.
+Através de conversas com o cliente, conseguimos detectar seu público alvo, em sua grande maioria são: empresários, empreendedores e profissionais com formação de nível superior (médicos, advogados e outros), todos já bem estruturados em suas atividades, muitas vezes já convictos que querem iniciar uma construção de casa, todos com intenção de residir neste local com seus familiares.
 
-Estes usuários na grande maioria buscavam o cliente já com interesse de iniciar suas construções, em menor proporção alguns buscavam na empresa assessoria para acompanhamento de seus projetos e/ou construção e poucos com interesse na empresa até para a montagem inicial do projeto para análise e planejamento de uma futura obra. Buscando estudos que norteei a análise do público que a empresa contratante lida e presta serviços conseguimos colher algumas informações relevantes. Busca por status norteia escolha de imóvel de luxo, foi visto e identificado que:
+Estes usuários na grande maioria buscavam o cliente já com interesse de iniciar suas construções, em menor proporção alguns buscavam na empresa assessoria para acompanhamento de seus projetos e/ou construção e poucos com interesse na empresa até para a montagem inicial do projeto para análise e planejamento de uma futura obra.
+
+Buscando estudos que norteei a análise do público que a empresa contratante lida e presta serviços conseguimos colher algumas informações relevantes. Busca por status norteia escolha de imóvel de luxo, foi visto e identificado que:
 
 ```
 “O perfil sociodemográfico do comprador de imóveis de diferentes padrões, pesquisa realizada pela Brain — Inteligência Estratégica, atesta que os clientes de alto padrão se destacam na busca por status, imediatismo e hedonismo, mas também estão preocupados em ter reconhecimento social e expectativa de renda futura mais elevada”.
@@ -46,19 +49,21 @@ Figura 2 – Segunda persona do projeto exemplificada
 
 # Definição do Problema
 
-Através das análises do time com o cliente foi possível identificar que a empresa de engenharia civil específica necessita de um website que represente adequadamente seus serviços, demonstre qualidade na prestação destes e fortaleça sua presença on-line, assim o site deve ser intuitivo e de fácil navegação,visualmente atraente e moderno, escalável tendo em vista o crescimento da empresa, deve passar credibilidade, profissionalismo e ser funcional para os clientes atuais.
+Através das análises do time com o cliente foi possível identificar que a empresa de engenharia civil específica necessita de um website que represente adequadamente seus serviços, demonstre qualidade na prestação destes e fortaleça sua presença on-line, assim o site deve ser intuitivo e de fácil navegação, visualmente atraente, moderno e também escalável tendo em vista o crescimento da empresa, a plataforma deve passar credibilidade, profissionalismo e ser funcional para os clientes atuais.
 
 ## • Entendimento do Problema:
 
-Após verificar através de reuniões com o cliente sua necessidade, vimos que devido a trabalhar na área de construção civil, com especialidade em residências de alto padrão, foi diagnosticado que realmente existem uma real necessidade de implementar uma plataforma digital, com visual elegante e técnico, para servir de marketing e divulgação do portfólio da empresa, oferecendo aos atuais clientes e futuros recursos que possibilitem conhecer a empresa como a melhor opção para os serviços prestados, assim terem mecanismos acessíveis e práticos para tirarem dúvidas e terem acesso a informações da sua construção.
+Após verificar através de reuniões com o cliente sua necessidade, vimos que devido a trabalhar na área de construção civil, com especialidade em residências de alto padrão, foi diagnosticado que realmente existem uma real necessidade de implementar uma plataforma digital, com visual elegante e técnico, para servir de marketing e divulgação do portfólio da empresa, oferecendo aos atuais clientes e futuros, recursos que possibilitem reconhecer a empresa como a melhor opção para os serviços prestados, desta forma no website deve ter mecanismos acessíveis e práticos para tirarem dúvidas e terem acesso a informações da sua construção.
 
 ## • Análise de Concorrentes:
 
-Tendo visto na disciplina que é um dos critérios para levantamento da case, ao indagar o cliente, este informou que existem sim outras empresas que atuam nessa área, ressaltando, que sempre passa para os interessados em construir, que seu diferencial em comparação as concorrentes é que seu empreendimento realmente preza pela qualidade acima de tudo, apresentando sempre fotos e projetos já executados em alto padrão e em cumprimento das normas que rege o setor (desta forma esperamos incluir no site todas essas ideias).
+Tendo visto na disciplina que um dos critérios para levantamento da case seria avaliar as empresas prestadoras do mesmo serviço ou semelhante da Versátil Engenharia, ao indagar o cliente, este informou que existem sim outras empresas que atuam nessa área, ressaltando que sempre passa para os interessados em construir, que seu diferencial em comparação as concorrentes é: seu empreendimento realmente preza pela qualidade acima de tudo.
 
-Aproveitando que um dos membros da equipe é natural de Ponte Nova e outro é de uma cidade próxima, com o prévio conhecimento de mercado daquela cidade, uma vez que o cliente ainda foca muito em atender apenas naquele munícipio, pelo o porte que a construtora é, seu número de funcionários e principalmente para um real e direto supervisionamento que o dono da empresa dá a todas as obras executadas, tendo ele dito que foi identificado também a crescente de obras neste padrão naquele município.
+O CEO da Versátil nos disse também que em reuniões de negócios sempre apresenta fotos e projetos já executados em alto padrão e em cumprimento das normas que rege o setor, informouq que este recurso sempre gera uma boa impressão, pois são obras realmente bem bonitas e bem estruturadas, diante disso esperamos incluir no site todas essas ideias, o designer da TechFlex sugeriu um carrousel de fotos.
 
-Diante dos pontos levantados e buscando a análise de concorrentes, vimos que existe um bom número de construtoras naquela cidade, bem como empresários que buscam empreender atuando nessa área, mesmo que regularizados para desenvolver construções civis, realmente atendendo com pontos específicos, devidamente regulamentada como Pessoa Jurídica e já com experiência de atuação em construção de alto padrão, o número é bem limitado, sendo de conhecimento que algumas buscam atender neste nicho, mas não entendem que serviços assim requer mais exclusividade e aprofundamento na execução detalhista e criteriosa de todas as fases de execução, não podendo trabalhar em larga escala e/ou com padrões normais de construção estabelecidos.
+Aproveitando que um dos membros da equipe é natural de Ponte Nova-MG, com o prévio conhecimento de mercado daquela cidade, uma vez que foi detectado que o cliente ainda foca muito em atender apenas naquele munícipio, pelo o porte que a construtora é, seu número de funcionários e principalmente para um real e direto supervisionamento do dono da empresa em todas as obras executadas, tendo ele dito que foi identificado também a crescente de obras neste padrão naquele município.
+
+Diante dos pontos levantados e buscando a análise de concorrentes, vimos que existe um bom número de construtoras naquela cidade, bem como empresários que buscam empreender atuando nessa área, mesmo que regularizados para desenvolver construções civis, realmente atendendo com pontos específicos, devidamente regulamentada como Pessoa Jurídica e já com experiência de atuação em construção de alto padrão, o número é bem limitado, sendo de conhecimento que algumas buscam atender neste nicho, mas não entendem que serviços assim requer mais exclusividade e aprofundamento na execução detalhista e criteriosa de todas as fases, não podendo trabalhar em larga escala e/ou com padrões normais de construção estabelecidos.
 
 Na imagem abaixo (Figura 3) conseguimos levantar o número específico de empreendimentos correlacionado no município, porém conseguimos filtrar os requisitos expostos acima, onde percebe-se uma diminuição grande de concorrentes quando o cliente realmente busca desenvolver exclusividade e bem-estar, exigências que diferenciam de outras concorrentes do segmento, ficando nítido que as personas que procuram a contratante buscam isso.
 
@@ -67,13 +72,17 @@ Figura 3 – Mapa de empresas – Fonte: Base de coleta de dados do Cadastro Nac
 
 ## • Requisitos
 
-Estruturação do conteúdo: O site deve ter uma navegação clara e organizada, com seções que refletem os principais serviços e informações oferecidos pela empresa: Sobre a empresa, prestação de serviços e contato. Além disso, é importante incluir um portfólio visual com fotos das obras realizadas para atrair potenciais clientes.
+- Estruturação do conteúdo: O site deve ter uma navegação clara e organizada, com seções que refletem os principais serviços e informações oferecidos pela empresa: Sobre a empresa, prestação de serviços e contato. Além disso, é importante incluir um portfólio visual com fotos das obras realizadas para atrair potenciais clientes.
 
-Interação com clientes: Uma área de login exclusiva para clientes permitirá o acesso a informações personalizadas, como status de projetos ou documentos importantes, o que pode melhorar o relacionamento e a confiança entre a empresa e seus clientes.
+- Campo de Feedbacks: Foi sugerido também pelo time TechFlex uma área no site para feedbacks, para melhor compreensão do contratante expusemos sobre este campo, nele podem serem colhidos relatos, tanto de clientes diretos, fornecedores e profissionais parceiros, o intuito desta area é colher feedbacks positivos, que enalteçam e reconheça a qualidade da prestação de serviço do contratante.
 
-Flexibilidade para expansão: A criação de um layout que permita a adição de novas funcionalidades, como "Notícias" e/ou "SAC", assegura que o site possa evoluir junto com a empresa, uma vez que é evidente que se trata de uma empresa jovem. Isso promove um crescimento contínuo sem precisar reformular o design.
+O CEO demonstrou bastante interesse na ideia e informou que gostou bastante da sugestão dessa área no site, ficando este responsável de futuramente nos repassar estes relatos para implementarmos no site essas informações, já ficando acertado a criação da area.
 
-Interface limpa e profissional: Uso de Wireframes simples, muito embora modernos e funcionais, com seções bem definidas, uma vez que estamos em um ramo de serviços onde a utilização das ciências exatas é a base na prestação do serviço contratado, assim devemos transmitir exatidão, qualidade e controle, crucial em setores como da Engenharia Civil.
+- Interação com clientes: Uma área de login exclusiva para clientes permitirá o acesso a informações personalizadas, como status de projetos ou documentos importantes, o que pode melhorar o relacionamento e a confiança entre a empresa e seus clientes.
+
+- Flexibilidade para expansão: A criação de um layout que permita a adição de novas funcionalidades, como "Notícias" e/ou "SAC", assegura que o site possa evoluir junto com a empresa, uma vez que é evidente que se trata de uma empresa jovem. Isso promove um crescimento contínuo sem precisar reformular o design.
+
+- Interface limpa e profissional: Uso de Wireframes simples, muito embora modernos e funcionais, com seções bem definidas, uma vez que estamos em um ramo de serviços onde a utilização das ciências exatas é a base na prestação do serviço contratado, assim devemos transmitir exatidão, qualidade e controle, crucial em setores como da Engenharia Civil.
 
 ## • Métricas para Avaliar a Solução do Problema
 
@@ -99,7 +108,7 @@ Optaremos em utilizar na elaboração das cores e da interface do site, cores qu
 Em continuidade as ideias que antes eram apenas discutidas e elaboradas em forma de documentos escritos, com o aprofundamento na disciplina de Design de Interação e abordando os tópicos de prototipação da disciplina o time realizou após discussão de ideias um wireframe inicial.
 
 ![image](https://github.com/user-attachments/assets/937d7206-7c53-4dfe-8827-03af8409c197)
-Figura 4 – Wireframe esboço inicial
+Figura 4 – Wireframe esboço inicial de baixa qualidade
 
 O objetivo deste wireframe (Figura 2) foi criar uma estrutura básica para entendimento da navegação, que destaque os principais serviços e informações da empresa, sendo decidido em separar o conteúdo em seções simples e bem definidas, garantindo que os visitantes encontrem as informações de forma intuitiva e organizada pelo corpo da página principal.
 
@@ -117,7 +126,7 @@ Figura 5 – Aba de fotos prototipagem pensada
 Dando continuidade nas ideias elaboradas foi realizada uma prototipagem de alta fidelidade já bem semelhante ao produto final com intuito de já conseguir apresentar uma ideia básica para o cliente, bem como discutir entre o time os pontos importantes para serem acrescentados ou reavaliados.
 
 ![image](https://github.com/user-attachments/assets/17dcdaf8-d4e6-4650-85c3-511a7052661d)
-Figura 6 – Conjunto de Wireframes com prototipação de alta fidelidade website versátil engenharia – Fonte: Figma
+Figura 6 – Conjunto de Wireframes com prototipação de média fidelidade website versátil engenharia – Fonte: Figma
 
 # Teste e Iteração
 
@@ -142,15 +151,15 @@ Uma fase que foi determinante e desafiadora, principalmente para o designer, vin
 A prototipação final ocorreu sem alterações, tendo conseguido dar caminho a todas as janelas e deixa-las bem elaboradas para apresentação final interativa ao cliente.
 
 <img src="Pagina 1 - Principal - final.png">
-Figura 7 – Wireframe final
+Figura 7 – Wireframe final de alta fidelidade
 
 # Conclusão
 
 Este projeto trouxe desafios únicos e valiosos aprendizados para o processo de design centrado no usuário vistos durante a disciplina de Design de Interação. Um dos maiores desafios foi equilibrar as necessidades do cliente com as limitações técnicas.
 
-Durante o desenvolvimento, foi necessário realizar várias iterações de design baseadas em feedback direto do cliente, juntamente com o que descobríamos de conteúdo na matéria e extra, o que nos permitiu adaptar e aprimorar constantemente a experiência proposta. Cada rodada de testes revelou novos desafios sobre como os usuários interagem com o produto, possibilitando ajustes que fortaleceram a usabilidade e a eficiência da interface.
+Durante o desenvolvimento, foi necessário realizar várias iterações de design baseadas em feedback direto do cliente, juntamente com o que descobríamos de conteúdo na matéria e extras, o que nos permitiu adaptar e aprimorar constantemente a experiência proposta. Cada rodada de testes revelou novos desafios sobre como os usuários interagem com o produto, possibilitando ajustes que fortaleceram a usabilidade e a eficiência da interface.
 
-Outro aprendizado importante foi a importância de manter uma comunicação constante e aberta com o cliente. Isso ajudou a alinhar expectativas e facilitou a incorporação de feedback em pontos-chave do projeto, evitando retrabalho, que inicialmente ocorreu, assim garantindo que as necessidades do negócio fossem respeitadas. Trabalhar com equipe também trouxe uma rica troca de conhecimentos, permitindo que todos contribuíssem para soluções e o sucesso do projeto.
+Outro aprendizado importante foi a importância de manter uma comunicação constante e aberta com o cliente. Isso ajudou a alinhar expectativas e facilitou a incorporação de feedbacks em pontos-chave do projeto, evitando retrabalho, que inicialmente ocorreu, assim garantindo que as necessidades do negócio fossem respeitadas. Trabalhar com equipe também trouxe uma rica troca de conhecimentos, mostrando a importância e os desafios do trabalho em equipe, permitindo que todos contribuíssem para soluções e o sucesso do projeto.
 
 ## Sociais dos contribuintes
 
