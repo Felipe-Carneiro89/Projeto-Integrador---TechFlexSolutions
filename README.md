@@ -26,21 +26,15 @@ informações do cliente e do público que a contratante lida, para desenvolvime
 
 ## • Análise do Público-Alvo:
 
-Através de conversas com o cliente, conseguimos detectar que seu público alvo na grande maioria
-seriam empresários, empreendedores, profissionais com formação de nível superior (médicos, advogados e outros), muitas vezes já convictos que querem iniciar uma construção de casa, em sua grande parte para residir neste local com seus familiares.
+Através de conversas com o cliente, conseguimos detectar que seu público alvo na grande maioria seriam empresários, empreendedores, profissionais com formação de nível superior (médicos, advogados e outros), muitas vezes já convictos que querem iniciar uma construção de casa, em sua grande parte para residir neste local com seus familiares.
 
 Estes usuários na grande maioria buscavam o cliente já com interesse de iniciar suas construções, em menor proporção alguns buscavam na empresa assessoria para acompanhamento de seus projetos e/ou construção e poucos com interesse na empresa até para a montagem inicial do projeto para análise e planejamento de uma futura obra. Buscando estudos que norteei a análise do público que a empresa contratante lida e presta serviços conseguimos colher algumas informações relevantes. Busca por status norteia escolha de imóvel de luxo, foi visto e identificado que:
 
 ```
-“O perfil sociodemográfico do comprador de imóveis de diferentes padrões,
-pesquisa realizada pela Brain — Inteligência Estratégica, atesta que os clientes de
-alto padrão se destacam na busca por status, imediatismo e hedonismo, mas
-também estão preocupados em ter reconhecimento social e expectativa de renda
-futura mais elevada ”.
+“O perfil sociodemográfico do comprador de imóveis de diferentes padrões, pesquisa realizada pela Brain — Inteligência Estratégica, atesta que os clientes de alto padrão se destacam na busca por status, imediatismo e hedonismo, mas também estão preocupados em ter reconhecimento social e expectativa de renda futura mais elevada”.
 ```
 
-(Trecho visto e retirado do Site Valor Econômico, 2023,
-https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2023/02/10/busca-por-status-norteia-escolha-de-imovel-de-luxo.ghtml)
+(Trecho visto e retirado do Site Valor Econômico, 2023, https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2023/02/10/busca-por-status-norteia-escolha-de-imovel-de-luxo.ghtml)
 
 ## Alguns exemplos de personas, público alvo da empresa:
 
@@ -60,8 +54,7 @@ Objetivos:
 
 Necessidades e Frustrações:
 
-• Exige qualidade e boa execução do projeto, além de observador, gosta de cobrar pelo valor
-que paga, esperando sempre perfeição no trabalho lhe é entregue.
+• Exige qualidade e boa execução do projeto, além de observador, gosta de cobrar pelo valor que paga, esperando sempre perfeição no trabalho lhe é entregue.
 
 • Não gosta de imprevistos, um atraso no cronograma pode deixá-lo chateado.
 Comportamento:
@@ -70,13 +63,11 @@ Comportamento:
 
 • Valoriza o tempo em casa com sua família.
 
-• É meticuloso, mas não gosta de perder tempo com tarefas operacionais que não compete a
-ele.
+• É meticuloso, mas não gosta de perder tempo com tarefas operacionais que não compete a ele.
 
 Motivações:
 
-• Maximizar sua eficiência em seu ofício para passar mais tempo com a família e se dedicar a
-projetos pessoais que também desenvolve.
+• Maximizar sua eficiência em seu ofício para passar mais tempo com a família e se dedicar a projetos pessoais que também desenvolve.
 
 • Trabalha com empenho para se tornar uma pessoa bem-sucedida.
 
@@ -87,6 +78,7 @@ Nome: Claudio, empreendedor nato
 Idade: 46 anos
 
 Profissão: Um grande empreendedor da cidade, Claudio é um varejista de médio porte conhecido na cidade, mas não encerra ali, busca investir em tudo que sente a possibilidade de bons e prósperos retornos.
+
 Objetivos:
 
 • Quer algo bonito e espaçoso, adora receber visitar e comemorar com familiares.
@@ -136,19 +128,19 @@ Tendo visto na disciplina que é um dos critérios para levantamento da case, ao
 
 Aproveitando que um dos membros da equipe é natural de Ponte Nova e outro é de uma cidade próxima, com o prévio conhecimento de mercado daquela cidade, uma vez que o cliente ainda foca muito em atender apenas naquele munícipio, pelo o porte que a construtora é, seu número de funcionários e principalmente para um real e direto supervisionamento que o dono da empresa dá a todas as obras executadas, tendo ele dito que foi identificado também a crescente de obras neste padrão naquele município.
 
-Diante dos pontos levantados e buscando a análise de concorrentes, vimos que existe um bom número de construtoras naquela cidade, bem como empresários que buscam empreender atuando nessa área,mesmo que regularizados para desenvolver construções civis, realmente atendendo com pontos específicos,devidamente regulamentada como Pessoa Jurídica e já com experiência de atuação em construção de alto padrão, o número é bem limitado, sendo de conhecimento que algumas buscam atender neste nicho, mas não entendem que serviços assim requer mais exclusividade e aprofundamento na execução detalhista e criteriosa de todas as fases de execução, não podendo trabalhar em larga escala e/ou com padrões normais de construção estabelecidos.
+Diante dos pontos levantados e buscando a análise de concorrentes, vimos que existe um bom número de construtoras naquela cidade, bem como empresários que buscam empreender atuando nessa área, mesmo que regularizados para desenvolver construções civis, realmente atendendo com pontos específicos, devidamente regulamentada como Pessoa Jurídica e já com experiência de atuação em construção de alto padrão, o número é bem limitado, sendo de conhecimento que algumas buscam atender neste nicho, mas não entendem que serviços assim requer mais exclusividade e aprofundamento na execução detalhista e criteriosa de todas as fases de execução, não podendo trabalhar em larga escala e/ou com padrões normais de construção estabelecidos.
 
 Na imagem abaixo conseguimos levantar o número específico de empreendimentos correlacionado no município, porém conseguimos filtrar os requisitos expostos acima, onde percebe-se uma diminuição grande de concorrentes quando o cliente realmente busca desenvolver exclusividade e bem-estar, exigências que diferenciam de outras concorrentes do segmento, ficando nítido que as personas que procuram a contratante buscam isso.
 
-## • Insights
+## • Requisitos
 
 Estruturação do conteúdo: O site deve ter uma navegação clara e organizada, com seções que refletem os principais serviços e informações oferecidos pela empresa: Sobre a empresa, prestação de serviços e contato. Além disso, é importante incluir um portfólio visual com fotos das obras realizadas para atrair potenciais clientes.
 
 Interação com clientes: Uma área de login exclusiva para clientes permitirá o acesso a informações personalizadas, como status de projetos ou documentos importantes, o que pode melhorar o relacionamento e a confiança entre a empresa e seus clientes.
 
-Flexibilidade para expansão: A criação de um layout que permita a adição de novas funcionalidades,como "Notícias" e/ou "SAC", assegura que o site possa evoluir junto com a empresa, uma vez que é evidente que se trata de uma empresa jovem. Isso promove um crescimento contínuo sem precisar reformular o design.
+Flexibilidade para expansão: A criação de um layout que permita a adição de novas funcionalidades, como "Notícias" e/ou "SAC", assegura que o site possa evoluir junto com a empresa, uma vez que é evidente que se trata de uma empresa jovem. Isso promove um crescimento contínuo sem precisar reformular o design.
 
-Interface limpa e profissional: Uso de Wireframes simples, muito embora modernos e funcionais,com seções bem definidas, uma vez que estamos em um ramo de serviços onde a utilização das ciências exatas é a base na prestação do serviço contratado, assim devemos transmitir exatidão, qualidade e controle, crucial em setores como da Engenharia Civil.
+Interface limpa e profissional: Uso de Wireframes simples, muito embora modernos e funcionais, com seções bem definidas, uma vez que estamos em um ramo de serviços onde a utilização das ciências exatas é a base na prestação do serviço contratado, assim devemos transmitir exatidão, qualidade e controle, crucial em setores como da Engenharia Civil.
 
 ## • Métricas para Avaliar a Solução do Problema
 
@@ -167,7 +159,7 @@ lançamento do website.
 
 ## • Prototipação
 
-Avaliando e pensando nos problemas repassados pelo solicitante do projeto, elaboramos um site que busque interagir com o usuário nele conectado, que tente repassar imagens e valores que a empresa contratante compactue, desta forma, tentaremos elaborar algo que tenha um conceito moderno e elegante,fazendo o site demonstrar qualidade e sofisticação, algo que transmitirá e será levando em consideração quando for a hora do usuário contratar os serviços da Versátil Engenharia e Projetos.
+Avaliando e pensando nos problemas repassados pelo solicitante do projeto, elaboramos um site que busque interagir com o usuário nele conectado, que tente repassar imagens e valores que a empresa contratante compactue, desta forma, tentaremos elaborar algo que tenha um conceito moderno e elegante, fazendo o site demonstrar qualidade e sofisticação, algo que transmitirá e será levando em consideração quando for a hora do usuário contratar os serviços da Versátil Engenharia e Projetos.
 
 Optaremos em utilizar na elaboração das cores e da interface do site, cores que harmonize com as cores do logotipo que o cliente já havia confeccionado e nos foi enviado para utilização, assim também usaremos uma paleta de cores que aproxime e/ou combine já com cores presentes no que a empresa já tem criado digitalmente, até porque alguns usuários e clientes já identificam e veem divulgação em rede social da empresa.
 
@@ -212,11 +204,11 @@ Acrescentando também que o cliente nos informou que ainda não teria ao certo q
 
 Ao apresentar a plataforma para o cliente basicamente pronta até o ponto que previamente informamos que seria apresentada nesta primeira etapa o time ficou bastante satisfeito com o retorno, o cliente informou que gostou de como ficou distribuídos os itens do site, bem como as ideias que foram sugeridas para ele, além de ter informado que sentiu que suas necessidades expostas nas reuniões foram colhidas e implementas na solução do projeto, ressaltou também a evolução que houve na primeira apresentação para a apresentação final desta etapa.
 
-Se mostrou bastante contente com o resultado e acrescentou que sua empresa teria interesse em inclusive arcar com eventuais custos para implementação completa da plataforma, que mesmo em fase de projeto integrador, ainda como trabalho prático universitário,caso necessite de algum valor de custeio para alguma eventual despesa, a sua empresa se colocava aberta para ouvir e tentar colaborar.
+Se mostrou bastante contente com o resultado e acrescentou que sua empresa teria interesse em inclusive arcar com eventuais custos para implementação completa da plataforma, que mesmo em fase de projeto integrador, ainda como trabalho prático universitário, caso necessite de algum valor de custeio para alguma eventual despesa, a sua empresa se colocava aberta para ouvir e tentar colaborar.
 
 ## • Prototipação no Figma
 
-Uma fase que foi determinante e desafiadora, principalmente para o designer, vindo de conhecimento nenhum na ferramenta,buscamos bastante informações extraclasse, bem como capacitações e cursos para ajudar a entender e saber trabalhar com a ferramentas disponíveis, principalmente na parte de criações de componentes dentro das layers para deixar o site mais interativos e dispor de recursos mais vivos, sem dúvida foi um grande aprendizado.
+Uma fase que foi determinante e desafiadora, principalmente para o designer, vindo de conhecimento nenhum na ferramenta, buscamos bastante informações extraclasse, bem como capacitações e cursos para ajudar a entender e saber trabalhar com a ferramentas disponíveis, principalmente na parte de criações de componentes dentro das layers para deixar o site mais interativos e dispor de recursos mais vivos, sem dúvida foi um grande aprendizado.
 A prototipação final ocorreu sem alterações, tendo conseguido dar caminho a todas as janelas e deixa-las bem elaboradas para apresentação final interativa ao cliente.
 
 <img src="Pagina 1 - Principal - final.png">
@@ -225,9 +217,9 @@ A prototipação final ocorreu sem alterações, tendo conseguido dar caminho a 
 
 Este projeto trouxe desafios únicos e valiosos aprendizados para o processo de design centrado no usuário vistos durante a disciplina de Design de Interação. Um dos maiores desafios foi equilibrar as necessidades do cliente com as limitações técnicas.
 
-Durante o desenvolvimento, foi necessário realizar várias iterações de design baseadas em feedback direto do cliente,juntamente com o que descobríamos de conteúdo na matéria e extra, o que nos permitiu adaptar e aprimorar constantemente a experiência proposta. Cada rodada de testes revelou novos desafios sobre como os usuários interagem com o produto, possibilitando ajustes que fortaleceram a usabilidade e a eficiência da interface.
+Durante o desenvolvimento, foi necessário realizar várias iterações de design baseadas em feedback direto do cliente, juntamente com o que descobríamos de conteúdo na matéria e extra, o que nos permitiu adaptar e aprimorar constantemente a experiência proposta. Cada rodada de testes revelou novos desafios sobre como os usuários interagem com o produto, possibilitando ajustes que fortaleceram a usabilidade e a eficiência da interface.
 
-Outro aprendizado importante foi a importância de manter uma comunicação constante e aberta com o cliente. Isso ajudou a alinhar expectativas e facilitou a incorporação de feedback em pontos-chave do projeto, evitando retrabalho, que inicialmente ocorreu,assim garantindo que as necessidades do negócio fossem respeitadas. Trabalhar com equipe também trouxe uma rica troca de conhecimentos, permitindo que todos contribuíssem para soluções e o sucesso do projeto.
+Outro aprendizado importante foi a importância de manter uma comunicação constante e aberta com o cliente. Isso ajudou a alinhar expectativas e facilitou a incorporação de feedback em pontos-chave do projeto, evitando retrabalho, que inicialmente ocorreu, assim garantindo que as necessidades do negócio fossem respeitadas. Trabalhar com equipe também trouxe uma rica troca de conhecimentos, permitindo que todos contribuíssem para soluções e o sucesso do projeto.
 
 ## Sociais dos contribuintes
 
