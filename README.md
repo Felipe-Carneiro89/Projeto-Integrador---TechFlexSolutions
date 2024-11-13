@@ -178,8 +178,7 @@ lançamento do website.
 
 Avaliando e pensando nos problemas repassados pelo solicitante do projeto, elaboramos um site que busque interagir com o usuário nele conectado, que tente repassar imagens e valores que a empresa contratante compactue, desta forma, tentaremos elaborar algo que tenha um conceito moderno e elegante,fazendo o site demonstrar qualidade e sofisticação, algo que transmitirá e será levando em consideração quando for a hora do usuário contratar os serviços da Versátil Engenharia e Projetos.
 
-Optaremos em utilizar na elaboração das cores e da interface do site, cores que harmonize com as cores do logotipo que o cliente já havia confeccionado e nos foi enviado para utilização, assim também usaremos uma paleta de cores que aproxime e/ou combine já com cores presentes no que a empresa já tem criado digitalmente, até porque alguns usuários e clientes já identificam e veem divulgação em rede social da
-empresa.
+Optaremos em utilizar na elaboração das cores e da interface do site, cores que harmonize com as cores do logotipo que o cliente já havia confeccionado e nos foi enviado para utilização, assim também usaremos uma paleta de cores que aproxime e/ou combine já com cores presentes no que a empresa já tem criado digitalmente, até porque alguns usuários e clientes já identificam e veem divulgação em rede social da empresa.
 
 Em continuidade as ideias que antes eram apenas discutidas e elaboradas em forma de documentos
 escritos, com o aprofundamento na disciplina de Design de Interação e abordando os tópicos de prototipação da disciplina o time realizou após discussão de ideias um wireframe inicial.
