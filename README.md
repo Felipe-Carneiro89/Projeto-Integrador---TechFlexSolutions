@@ -110,9 +110,10 @@ Optaremos em utilizar na elaboração das cores e da interface do site, cores qu
 Em continuidade as ideias que antes eram apenas discutidas e elaboradas em forma de documentos escritos, com o aprofundamento na disciplina de Design de Interação e abordando os tópicos de prototipação da disciplina o time realizou após discussão de ideias um wireframe inicial.
 
 ![image](https://github.com/user-attachments/assets/937d7206-7c53-4dfe-8827-03af8409c197)
+
 Figura 4 – Wireframe esboço inicial de baixa qualidade
 
-O objetivo deste wireframe (Figura 2) foi criar uma estrutura básica para entendimento da navegação, que destaque os principais serviços e informações da empresa, sendo decidido em separar o conteúdo em seções simples e bem definidas, garantindo que os visitantes encontrem as informações de forma intuitiva e organizada pelo corpo da página principal.
+O objetivo deste wireframe (Figura 4) foi criar uma estrutura básica para entendimento da navegação, que destaque os principais serviços e informações da empresa, sendo decidido em separar o conteúdo em seções simples e bem definidas, garantindo que os visitantes encontrem as informações de forma intuitiva e organizada pelo corpo da página principal.
 
 Conforme visto na Figura 2, será criado uma outra wireframe para área de login e também será criado uma aba de contatos que irá sobrepor a wireframe quando selecionado, podendo ser fechada imediatamente se desejar.
 
@@ -123,6 +124,7 @@ O wireframe inicial incluiu apenas a página de login, mas depois quando expandi
 Abaixo temos (Figura 5) onde foi feito também uma prototipagem do campo de fotos do site, será feito uma aba de fotos, que serão apresentadas na página principal, uma a uma automaticamente, podendo o cliente ficar assistindo à passagem dessas fotos de obras e serviços executados.
 
 ![image](https://github.com/user-attachments/assets/c98f846f-f539-42f3-a540-cb9f3483cf34)
+
 Figura 5 – Aba de fotos prototipagem pensada
 
 Dando continuidade nas ideias elaboradas foi realizada uma prototipagem de alta fidelidade já bem semelhante ao produto final com intuito de já conseguir apresentar uma ideia básica para o cliente, bem como discutir entre o time os pontos importantes para serem acrescentados ou reavaliados.
