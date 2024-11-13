@@ -29,11 +29,7 @@ informações do cliente e do público que a contratante lida, para desenvolvime
 Através de conversas com o cliente, conseguimos detectar que seu público alvo na grande maioria
 seriam empresários, empreendedores, profissionais com formação de nível superior (médicos, advogados e outros), muitas vezes já convictos que querem iniciar uma construção de casa, em sua grande parte para residir neste local com seus familiares.
 
-Estes usuários na grande maioria buscavam o cliente já com interesse de iniciar suas construções, em menor proporção alguns buscavam na empresa assessoria para acompanhamento de seus projetos e/ou construção e poucos com interesse na empresa até para a montagem inicial do projeto para análise e planejamento de uma futura obra.
-
-Buscando estudos que norteei a análise do público que a empresa contratante lida e presta serviços conseguimos colher algumas informações relevantes.
-
-Busca por status norteia escolha de imóvel de luxo, foi visto e identificado que:
+Estes usuários na grande maioria buscavam o cliente já com interesse de iniciar suas construções, em menor proporção alguns buscavam na empresa assessoria para acompanhamento de seus projetos e/ou construção e poucos com interesse na empresa até para a montagem inicial do projeto para análise e planejamento de uma futura obra. Buscando estudos que norteei a análise do público que a empresa contratante lida e presta serviços conseguimos colher algumas informações relevantes. Busca por status norteia escolha de imóvel de luxo, foi visto e identificado que:
 
 ```
 “O perfil sociodemográfico do comprador de imóveis de diferentes padrões,
@@ -136,22 +132,17 @@ Através das análises do time com o cliente foi possível identificar que a emp
 
 ## • Análise de Concorrentes:
 
-Tendo visto na disciplina que é um dos critérios para levantamento da case, ao indagar o cliente, este informou que existem sim outras empresas que atuam nessa área, ressaltando, que sempre passa para os interessados em construir, que seu diferencial em comparação as concorrentes é que seu empreendimento realmente preza pela qualidade acima de tudo, apresentando sempre fotos e projetos já executados em alto padrão e em cumprimento das normas que rege o setor (desta forma esperamos incluir no site todas essas
-ideias).
+Tendo visto na disciplina que é um dos critérios para levantamento da case, ao indagar o cliente, este informou que existem sim outras empresas que atuam nessa área, ressaltando, que sempre passa para os interessados em construir, que seu diferencial em comparação as concorrentes é que seu empreendimento realmente preza pela qualidade acima de tudo, apresentando sempre fotos e projetos já executados em alto padrão e em cumprimento das normas que rege o setor (desta forma esperamos incluir no site todas essas ideias).
 
-Aproveitando que um dos membros da equipe é natural de Ponte Nova e outro é de uma cidade
-próxima, com o prévio conhecimento de mercado daquela cidade, uma vez que o cliente ainda foca muito em atender apenas naquele munícipio, pelo o porte que a construtora é, seu número de funcionários e principalmente para um real e direto supervisionamento que o dono da empresa dá a todas as obras executadas, tendo ele dito que foi identificado também a crescente de obras neste padrão naquele município.
+Aproveitando que um dos membros da equipe é natural de Ponte Nova e outro é de uma cidade próxima, com o prévio conhecimento de mercado daquela cidade, uma vez que o cliente ainda foca muito em atender apenas naquele munícipio, pelo o porte que a construtora é, seu número de funcionários e principalmente para um real e direto supervisionamento que o dono da empresa dá a todas as obras executadas, tendo ele dito que foi identificado também a crescente de obras neste padrão naquele município.
 
 Diante dos pontos levantados e buscando a análise de concorrentes, vimos que existe um bom número de construtoras naquela cidade, bem como empresários que buscam empreender atuando nessa área,mesmo que regularizados para desenvolver construções civis, realmente atendendo com pontos específicos,devidamente regulamentada como Pessoa Jurídica e já com experiência de atuação em construção de alto padrão, o número é bem limitado, sendo de conhecimento que algumas buscam atender neste nicho, mas não entendem que serviços assim requer mais exclusividade e aprofundamento na execução detalhista e criteriosa de todas as fases de execução, não podendo trabalhar em larga escala e/ou com padrões normais de construção estabelecidos.
 
-Na imagem abaixo conseguimos levantar o número específico de empreendimentos correlacionado no
-município, porém conseguimos filtrar os requisitos expostos acima, onde percebe-se uma diminuição grande de concorrentes quando o cliente realmente busca desenvolver exclusividade e bem-estar, exigências que diferenciam de outras concorrentes do segmento, ficando nítido que as personas que procuram a contratante
-buscam isso.
+Na imagem abaixo conseguimos levantar o número específico de empreendimentos correlacionado no município, porém conseguimos filtrar os requisitos expostos acima, onde percebe-se uma diminuição grande de concorrentes quando o cliente realmente busca desenvolver exclusividade e bem-estar, exigências que diferenciam de outras concorrentes do segmento, ficando nítido que as personas que procuram a contratante buscam isso.
 
 ## • Insights
 
-Estruturação do conteúdo: O site deve ter uma navegação clara e organizada, com seções que
-refletem os principais serviços e informações oferecidos pela empresa: Sobre a empresa, prestação de serviços e contato. Além disso, é importante incluir um portfólio visual com fotos das obras realizadas para atrair potenciais clientes.
+Estruturação do conteúdo: O site deve ter uma navegação clara e organizada, com seções que refletem os principais serviços e informações oferecidos pela empresa: Sobre a empresa, prestação de serviços e contato. Além disso, é importante incluir um portfólio visual com fotos das obras realizadas para atrair potenciais clientes.
 
 Interação com clientes: Uma área de login exclusiva para clientes permitirá o acesso a informações personalizadas, como status de projetos ou documentos importantes, o que pode melhorar o relacionamento e a confiança entre a empresa e seus clientes.
 
@@ -180,8 +171,7 @@ Avaliando e pensando nos problemas repassados pelo solicitante do projeto, elabo
 
 Optaremos em utilizar na elaboração das cores e da interface do site, cores que harmonize com as cores do logotipo que o cliente já havia confeccionado e nos foi enviado para utilização, assim também usaremos uma paleta de cores que aproxime e/ou combine já com cores presentes no que a empresa já tem criado digitalmente, até porque alguns usuários e clientes já identificam e veem divulgação em rede social da empresa.
 
-Em continuidade as ideias que antes eram apenas discutidas e elaboradas em forma de documentos
-escritos, com o aprofundamento na disciplina de Design de Interação e abordando os tópicos de prototipação da disciplina o time realizou após discussão de ideias um wireframe inicial.
+Em continuidade as ideias que antes eram apenas discutidas e elaboradas em forma de documentos escritos, com o aprofundamento na disciplina de Design de Interação e abordando os tópicos de prototipação da disciplina o time realizou após discussão de ideias um wireframe inicial.
 
 ![image](https://github.com/user-attachments/assets/937d7206-7c53-4dfe-8827-03af8409c197)
 
@@ -193,8 +183,7 @@ Conforme visto na figura 2, será criado uma outra wireframe para área de login
 
 No wireframe da Área Login de Clientes tem como objetivo oferecer uma área personalizada e segura para os clientes acompanharem seus projetos e documentos importantes, esta nova wireframe deverá ser um local simples e funcional, com foco na experiência do cliente. 
 
-O wireframe inicial incluiu apenas a página de
-login, mas depois quando expandido irá incluir dashboards personalizados com informações sobre o status dos projetos individualmente. Wireframe da Aba de Contatos tem como objetivo facilitar o contato entre os visitantes do site e a empresa, incentivando leads.
+O wireframe inicial incluiu apenas a página de login, mas depois quando expandido irá incluir dashboards personalizados com informações sobre o status dos projetos individualmente. Wireframe da Aba de Contatos tem como objetivo facilitar o contato entre os visitantes do site e a empresa, incentivando leads.
 
 Abaixo temos a figura 3, onde foi feito também uma prototipagem do campo de fotos do site, será feito uma aba de fotos, que serão apresentadas na página principal, uma a uma automaticamente, podendo o cliente ficar assistindo à passagem dessas fotos de obras e serviços executados.
 
@@ -202,8 +191,7 @@ Abaixo temos a figura 3, onde foi feito também uma prototipagem do campo de fot
 
 Figura 3 – Aba de fotos prototipagem pensada
 
-Dando continuidade nas ideias elaboradas foi realizada uma prototipagem de alta fidelidade já bem semelhante ao produto final com intuito de já conseguir apresentar uma ideia básica para o cliente, bem como
-discutir entre o time os pontos importantes para serem acrescentados ou reavaliados.
+Dando continuidade nas ideias elaboradas foi realizada uma prototipagem de alta fidelidade já bem semelhante ao produto final com intuito de já conseguir apresentar uma ideia básica para o cliente, bem como discutir entre o time os pontos importantes para serem acrescentados ou reavaliados.
 
 ![image](https://github.com/user-attachments/assets/17dcdaf8-d4e6-4650-85c3-511a7052661d)
 
@@ -214,20 +202,15 @@ Figura 4 – Conjunto de Wireframes com prototipação de alta fidelidade websit
 Durante a montagem do website inicialmente tivemos várias dificuldades, pois havia muito pouco conhecimento a respeito da ferramenta de criação, o Figma, bem como conhecimento aprofundado na matéria de UX/UI, desta forma optamos por idealizarmos boa parte da ideia inicial em modelos Wireframesem esboços de baixa fidelidade, assim através de discussões
 fomos montando inicialmente a ideia do que o cliente nos repassou das necessidades do produto e o que desejava construir.
 
-Ao iniciar a montagem do site já na ferramenta Figma tivemos muitos problemas na organização das partes do site, já com uma ideia inicial, agora tínhamos que tecnicamente ir distribuindo as informações e serviços que o cliente oferece e informa na plataforma de forma clara e limpa, inicialmente as cores do site não ligaram com muita harmonia, pois tínhamos optado para cores muito escuras e pesadas, o que não passava uma ideia de modernidade e sofisticação, assim, em conversa com o cliente vimos que isso necessitava ser alterado, até chegar a cor definida, ressaltando que utilizamos em alguns detalhes cores próximas do logotipo principal já utilizado pela empresa, fazendo com que o site transmita harmonia entre seus componentes
-e identidade visual.
+Ao iniciar a montagem do site já na ferramenta Figma tivemos muitos problemas na organização das partes do site, já com uma ideia inicial, agora tínhamos que tecnicamente ir distribuindo as informações e serviços que o cliente oferece e informa na plataforma de forma clara e limpa, inicialmente as cores do site não ligaram com muita harmonia, pois tínhamos optado para cores muito escuras e pesadas, o que não passava uma ideia de modernidade e sofisticação, assim, em conversa com o cliente vimos que isso necessitava ser alterado, até chegar a cor definida, ressaltando que utilizamos em alguns detalhes cores próximas do logotipo principal já utilizado pela empresa, fazendo com que o site transmita harmonia entre seus componentes e identidade visual.
 
-Depois de elaborado basicamente os itens principais do site, iniciamos a montagem das novas páginas, ficando definido entre
-as principais: “sobre a empresa”, “área de login” e “contato”, além da página principal que concentrava a maioria das informações.
-Sobre alguns itens futuros é importante ressaltar, uma nova página de acesso após o lançamento dos dados de login do usuário/cliente da Versátil ainda não foi criada devido ao baixo conhecimento do time sobre outras disciplinas do curso de Análise e Desenvolvimento de Sistemas correlacionadas que existe necessidade de serem cursadas e aprofundadas para apresentação completa do website com todas suas funcionalidades, entre elas: criação de um banco de dados, servidor, back end da plataforma e outras.
+Depois de elaborado basicamente os itens principais do site, iniciamos a montagem das novas páginas, ficando definido entre as principais: “sobre a empresa”, “área de login” e “contato”, além da página principal que concentrava a maioria das informações. Sobre alguns itens futuros é importante ressaltar, uma nova página de acesso após o lançamento dos dados de login do usuário/cliente da Versátil ainda não foi criada devido ao baixo conhecimento do time sobre outras disciplinas do curso de Análise e Desenvolvimento de Sistemas correlacionadas que existe necessidade de serem cursadas e aprofundadas para apresentação completa do website com todas suas funcionalidades, entre elas: criação de um banco de dados, servidor, back end da plataforma e outras.
 
 Acrescentando também que o cliente nos informou que ainda não teria ao certo quais itens e informações desejaria e teria disponível para apresentar na dashboard especifica desta página aos clientes da sua empresa, lembrando que inicialmente foi uma ideia e necessidade informada por ele mesmo, desta forma vimos que isso necessita ser elaborado futuramente com maior conhecimento e também com coleta de novos dados mais personalizados e exclusivo de cada cliente que a empresa fornece algum tipo de serviço.
 
 ## • Feedback
 
-Ao apresentar a plataforma para o cliente basicamente pronta até o ponto que previamente informamos que seria apresentada nesta primeira etapa o time ficou bastante satisfeito com o retorno, o cliente informou que gostou de como ficou distribuídos os itens do site, bem como as ideias que foram sugeridas para ele, além de ter informado que sentiu que suas necessidades
-expostas nas reuniões foram colhidas e implementas na solução do projeto, ressaltou também a evolução que houve na primeira
-apresentação para a apresentação final desta etapa.
+Ao apresentar a plataforma para o cliente basicamente pronta até o ponto que previamente informamos que seria apresentada nesta primeira etapa o time ficou bastante satisfeito com o retorno, o cliente informou que gostou de como ficou distribuídos os itens do site, bem como as ideias que foram sugeridas para ele, além de ter informado que sentiu que suas necessidades expostas nas reuniões foram colhidas e implementas na solução do projeto, ressaltou também a evolução que houve na primeira apresentação para a apresentação final desta etapa.
 
 Se mostrou bastante contente com o resultado e acrescentou que sua empresa teria interesse em inclusive arcar com eventuais custos para implementação completa da plataforma, que mesmo em fase de projeto integrador, ainda como trabalho prático universitário,caso necessite de algum valor de custeio para alguma eventual despesa, a sua empresa se colocava aberta para ouvir e tentar colaborar.
 
@@ -244,8 +227,7 @@ Este projeto trouxe desafios únicos e valiosos aprendizados para o processo de 
 
 Durante o desenvolvimento, foi necessário realizar várias iterações de design baseadas em feedback direto do cliente,juntamente com o que descobríamos de conteúdo na matéria e extra, o que nos permitiu adaptar e aprimorar constantemente a experiência proposta. Cada rodada de testes revelou novos desafios sobre como os usuários interagem com o produto, possibilitando ajustes que fortaleceram a usabilidade e a eficiência da interface.
 
-Outro aprendizado importante foi a importância de manter uma comunicação constante e aberta com o cliente. Isso ajudou a alinhar expectativas e facilitou a incorporação de feedback em pontos-chave do projeto, evitando retrabalho, que inicialmente ocorreu,assim garantindo que as necessidades do negócio fossem respeitadas. Trabalhar com equipe também trouxe uma rica troca de conhecimentos,
-permitindo que todos contribuíssem para soluções e o sucesso do projeto.
+Outro aprendizado importante foi a importância de manter uma comunicação constante e aberta com o cliente. Isso ajudou a alinhar expectativas e facilitou a incorporação de feedback em pontos-chave do projeto, evitando retrabalho, que inicialmente ocorreu,assim garantindo que as necessidades do negócio fossem respeitadas. Trabalhar com equipe também trouxe uma rica troca de conhecimentos, permitindo que todos contribuíssem para soluções e o sucesso do projeto.
 
 ## Sociais dos contribuintes
 
