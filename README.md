@@ -199,7 +199,7 @@ Figura 4 – Conjunto de Wireframes com prototipação de alta fidelidade websit
 
 # Teste e Iteração
 
-Durante a montagem do website inicialmente tivemos várias dificuldades, pois havia muito pouco conhecimento a respeito da ferramenta de criação, o Figma, bem como conhecimento aprofundado na matéria de UX/UI, desta forma optamos por idealizarmos boa parte da ideia inicial em modelos Wireframesem esboços de baixa fidelidade, assim através de discussões
+Durante a montagem do website inicialmente tivemos várias dificuldades, pois havia muito pouco conhecimento a respeito da ferramenta de criação, o Figma, bem como conhecimento aprofundado na matéria de UX/UI, desta forma optamos por idealizarmos boa parte da ideia inicial em modelos Wireframe sem esboços de baixa fidelidade, assim através de discussões
 fomos montando inicialmente a ideia do que o cliente nos repassou das necessidades do produto e o que desejava construir.
 
 Ao iniciar a montagem do site já na ferramenta Figma tivemos muitos problemas na organização das partes do site, já com uma ideia inicial, agora tínhamos que tecnicamente ir distribuindo as informações e serviços que o cliente oferece e informa na plataforma de forma clara e limpa, inicialmente as cores do site não ligaram com muita harmonia, pois tínhamos optado para cores muito escuras e pesadas, o que não passava uma ideia de modernidade e sofisticação, assim, em conversa com o cliente vimos que isso necessitava ser alterado, até chegar a cor definida, ressaltando que utilizamos em alguns detalhes cores próximas do logotipo principal já utilizado pela empresa, fazendo com que o site transmita harmonia entre seus componentes e identidade visual.
