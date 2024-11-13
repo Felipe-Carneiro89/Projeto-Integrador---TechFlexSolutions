@@ -78,9 +78,7 @@ Figura 3 – Mapa de empresas – Fonte: Base de coleta de dados do Cadastro Nac
 
 - Estruturação do conteúdo: O site deve ter uma navegação clara e organizada, com seções que refletem os principais serviços e informações oferecidos pela empresa: Sobre a empresa, prestação de serviços e contato. Além disso, é importante incluir um portfólio visual com fotos das obras realizadas para atrair potenciais clientes.
 
-- Campo de Feedbacks: Foi sugerido também pelo time TechFlex uma área no site para feedbacks, para melhor compreensão do contratante expusemos sobre este campo, nele podem serem colhidos relatos, tanto de clientes diretos, fornecedores e profissionais parceiros, o intuito desta area é colher feedbacks positivos, que enalteçam e reconheça a qualidade da prestação de serviço do contratante.
-
-O CEO demonstrou bastante interesse na ideia e informou que gostou bastante da sugestão dessa área no site, ficando este responsável de futuramente nos repassar estes relatos para implementarmos no site essas informações, já ficando acertado a criação da area.
+- Campo de Feedbacks: Foi sugerido também pelo time TechFlex uma área no site para feedbacks, para melhor compreensão do contratante expusemos sobre este campo, nele podem serem colhidos relatos, tanto de clientes diretos, fornecedores e profissionais parceiros, o intuito desta area é colher feedbacks positivos, que enalteçam e reconheça a qualidade da prestação de serviço do contratante. O CEO demonstrou bastante interesse na ideia e informou que gostou bastante da sugestão dessa área no site, ficando este responsável de futuramente nos repassar estes relatos para implementarmos no site essas informações, já ficando acertado a criação da area.
 
 - Interação com clientes: Uma área de login exclusiva para clientes permitirá o acesso a informações personalizadas, como status de projetos ou documentos importantes, o que pode melhorar o relacionamento e a confiança entre a empresa e seus clientes.
 
