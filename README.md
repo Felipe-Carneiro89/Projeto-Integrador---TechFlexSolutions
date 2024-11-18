@@ -1,4 +1,4 @@
-<img src="techflexlogo.png">
+<img src="/Images/techflexlogo.png">
 
 # Projeto Integrador - TechFlexSolutions
 
@@ -41,14 +41,14 @@ Buscando estudos que norteei a análise do público que a empresa contratante li
 
 # Alguns exemplos de personas, público alvo da empresa:
 
-<img src="Persona1.png">
+<img src="/Images/Persona1.png">
 Figura 1 – Primeira persona do projeto exemplificada
 
 ---
 
 ---
 
-<img src="Persona2.png">
+<img src="/Images/Persona2.png">
 Figura 2 – Segunda persona do projeto exemplificada
 
 # Definição do Problema
@@ -154,7 +154,7 @@ Se mostrou bastante contente com o resultado e acrescentou que sua empresa teria
 Uma fase que foi determinante e desafiadora, principalmente para o designer, vindo de conhecimento nenhum na ferramenta, buscamos bastante informações extraclasse, bem como capacitações e cursos para ajudar a entender e saber trabalhar com a ferramentas disponíveis, principalmente na parte de criações de componentes dentro das layers para deixar o site mais interativos e dispor de recursos mais vivos, sem dúvida foi um grande aprendizado.
 A prototipação final ocorreu sem alterações, tendo conseguido dar caminho a todas as janelas e deixa-las bem elaboradas para apresentação final interativa ao cliente.
 
-<img src="Pagina 1 - Principal - final.png">
+<img src="/Images/Pagina 1 - Principal - final.png">
 Figura 7 – Wireframe final de alta fidelidade
 
 # Conclusão
