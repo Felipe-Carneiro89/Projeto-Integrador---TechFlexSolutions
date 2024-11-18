@@ -129,7 +129,7 @@ Figura 5 – Aba de fotos prototipagem pensada
 
 Dando continuidade nas ideias elaboradas foi realizada uma prototipagem de alta fidelidade já bem semelhante ao produto final com intuito de já conseguir apresentar uma ideia básica para o cliente, bem como discutir entre o time os pontos importantes para serem acrescentados ou reavaliados.
 
-![image](https://github.com/user-attachments/assets/17dcdaf8-d4e6-4650-85c3-511a7052661d)
+<img src="/Images/Wireframes.png">
 Figura 6 – Conjunto de Wireframes com prototipação de média fidelidade website versátil engenharia – Fonte: Figma
 
 # Teste e Iteração
