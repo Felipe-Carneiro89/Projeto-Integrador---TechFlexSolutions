@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Versátil Engenharia</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="cabecalho">
+        <img src="/Images/Branco.png" alt="Logo da Empresa" class="logo" />
+        <nav>
+          <ul>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#contato">Contato</a></li>
+          </ul>
+        </nav>
+        <a href="#area-cliente" class="cabecalho_acesso_cliente"
+          >Área do Cliente
+        </a>
+      </div>
+    </header>
+
+    <main>
+      <section class="quadrado_1">
+        <img
+          src="/Images/Branco Dourado.png"
+          alt="Logo da Empresa"
+          class="logo_grande"
+        />
+        <div class="prestacao_servicos">
+          <h1>Prestação de Serviços</h1>
+          <h3>Profissionalismo e qualidade</h3>
+        </div>
+      </section>
+      <section id="servicos">
+        <div class="quadros_servicos">
+          <div class="quadro_servicos_1">
+            <h2>Construção</h2>
+            <p>
+              Realizamos obras com qualidade e segurança, garantindo
+              conformidade e alto padrão em cada detalhe escolhido.
+            </p>
+          </div>
+          <div class="quadro_servicos_2">
+            <h2>Gerenciamento</h2>
+            <p>
+              Coordenamos cada fase da obra com metas bem elaboradas, otimizando
+              recursos e garantindo cumprimento de prazos.
+            </p>
+          </div>
+          <div class="quadro_servicos_3">
+            <h2>Projetos</h2>
+            <p>
+              Desenvolvemos projetos sob medida, focando em eficiência, inovação
+              e conformidade com normas técnicas.
+            </p>
+          </div>
+          <div class="quadro_servicos_4">
+            <h2>Tire a sua ideia do papel</h2>
+            <p>
+              Transformamos sua visão em realidade, oferecendo suporte desde o
+              planejamento até a execução final, entre em contato!
+            </p>
+          </div>
+        </div>
+      </section>
+      <section id=" Aba_de_fotos">
+        <div class="fotos">
+          <h2>Um pouco de nossas obras</h2>
+          <img src="/Images/Imagem_01.jpg" alt="Foto obra" />
+          <img src="/Images/Imagem_02.jpg" alt="Foto obra" />
+          <img src="/Images/Imagem_03.jpg" alt="Foto obra" />
+          <img src="/Images/Imagem_04.jpg" alt="Foto obra" />
+        </div>
+        <div class="texto_sobre">
+          <p>
+            A Versátil busca oferecer prestação de serviço com eficiência e
+            agilidade, entregando obras dentro do cronograma definido, com
+            respeito as normas técnicas e preservação do meio ambiente.
+          </p>
+        </div>
+      </section>
+
+      <section id="valores">
+        <h2>No que acreditamos</h2>
+        <div class="quadro_valores">
+          <div class="quadro_valores_1">
+            <h2>Compromisso com a Excelência</h2>
+            <p>
+              Na Versátil, a qualidade é fundamental em todas as fases da
+              construção. Nosso time está comprometido em superar expectativas e
+              entregar resultados excepcionais.
+            </p>
+          </div>
+          <div class="quadro_valores_2">
+            <h2>Nossa missão é ser reconhecida</h2>
+            <p>
+              Como empresa referência nacional no fornecimento de soluções e
+              tecnologias na área da construção civil.
+            </p>
+          </div>
+          <div class="quadro_valores_3">
+            <h2>Parceria com colaboradores</h2>
+            <p>
+              Valorizamos cada colaborador da empresa, trabalhando sempre para
+              atender os interesses de clientes, colaboradores e profissionais
+              correlacionados.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="contato">
+        <div class="contato_versatil">
+          <h2>Entre em Contato com nossa equipe</h2>
+          <p>
+            Estamos aqui para ajudar e tirar dúvidas, caso você tenha interesse
+            em saber mais sobre o trabalho da Versátil, estamos ansiosos para
+            esclarecer alguma dúvida e tê-lo como cliente.
+          </p>
+          <h3>Telefone</h3>
+          <p>+55 (31)99569-1184</p>
+          <h3>Email</h3>
+          <p>leandro223@hotmail.com</p>
+          <h3>Instagram</h3>
+          <p>@versatil_contrucoes_ltda</p>
+        </div>
+
+        <div class="formulario_de_envio">
+          <form action="envio.php" method="post">
+            <label for="nome">Seu nome e sobrenome</label>
+            <input type="text" id="nome" name="nome" required />
+
+            <label for="telefone">Telefone para contato</label>
+            <input type="number" id="contato" name="telefone" required />
+
+            <label for="mensagem">Qual sua necessidade hoje?</label>
+            <textarea id="mensagem" name="mensagem" required></textarea>
+
+            <button type="submit">Enviar</button>
+          </form>
+        </div>
+      </section>
+
+      <section id="feedbacks">
+        <h2>Nossos Clientes</h2>
+        <p>Depoimentos de clientes e parceiros</p>
+        <div class="depoimentos">
+          <blockquote>
+            <p>"Relato do cliente"</p>
+            <cite>- Cliente 1</cite>
+          </blockquote>
+          <blockquote>
+            <p>"Relato do cliente"</p>
+            <cite>- Cliente 2</cite>
+          </blockquote>
+          <blockquote>
+            <p>"Relato do cliente"</p>
+            <cite>- Cliente 3</cite>
+          </blockquote>
+        </div>
+      </section>
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+      <div class="rodape">
+        <img src="/Images/Branco.png" alt="Logo da Empresa" />
+        <p>&copy; 2024 Todos os direitos reservados.</p>
+      </div>
+    </footer>
+  </body>
+</html>
