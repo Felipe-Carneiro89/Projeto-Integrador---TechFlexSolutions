@@ -1,9 +1,26 @@
-cabecalho {
-  color: #8e8e93;
+.logo {
+  max-width: 134px;
+  max-height: 84px;
+}
+
+.cabecalho {
+  background-color: #8e8e93;
   font-style: Sora;
   font-size: 50px;
   text-transform: uppercase;
+  font-weight: normal;
+  display: flex;
+  gap:127px;
+  row-gap: 10px;
+  flex-direction:row
+  justify-content: flex-start;
+  align-items: baseline;
 }
 
 /*criado apenas teste e iniciar as estilizações
 */
+
+/* Para comentar trechos utiliza-se o atalho CTRL+; */
+
+/* Se não criar um arquivo a parte para CSS - styles.css, no index.html,
+tudo que você colocar em <style> AQUI </style> será estilizado */
