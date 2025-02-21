@@ -2,7 +2,7 @@
 
 # Projeto Integrador - TechFlexSolutions
 
-Projeto Integrador dos alunos do Curso de Análise e Desenvolvimento de Sistemas - UNIVICOSA
+Projeto Integrador do Curso de Análise e Desenvolvimento de Sistemas - UNIVICOSA
 
 # Introdução
 
