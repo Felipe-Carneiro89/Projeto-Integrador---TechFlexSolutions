@@ -171,8 +171,6 @@ Felipe Soares Gonçalves Carneiro Xavier: [GitHub](https://www.github.com/Felipe
 
 Jorge Lucas Freitas Cardoso: [GitHub](https://www.github.com/jorgefcardoso) [LinkedIn](https://www.linkedin.com/in/jorgelfcardoso/)
 
-Elias Reis Gomes: [GitHub](https://www.github.com/elias-7777) [LinkedIn](https://www.linkedin.com/in/elias-reis-1259992b3/)
-
 ## Referências bibliográficas
 
 BUSCA por Status norteia escolha de imóvel de luxo. <b>Imoveis de Valor</b>, 10 de Fev de 2023. Disponível em:
